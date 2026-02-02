@@ -1,50 +1,54 @@
 # Amazon_sales_powerbi_dashboard
 
 📊 Amazon Sales Analysis Dashboard | Power BI Project
-
-This project is a Power BI dashboard created to analyze Amazon product sales performance using interactive visualizations and business intelligence techniques.
-
 🔍 Project Overview
-▫️The dashboard provides insights into:
-▫️Year-to-Date (YTD) Sales, Quarterly Sales (QTD), and Units Sold
-▫️Monthly and Weekly sales trends
-▫️Category-wise sales performance
-▫️Top 5 products by sales and customer reviews
-▫️Dynamic filtering by product category and quarter
-▫️It helps in understanding customer behavior, product performance, and overall business growth.
+This project focuses on analyzing Amazon sales data to transform raw transactional data into meaningful business insights using Power BI. The dashboard helps stakeholders monitor performance, identify trends, and make data-driven decisions.
 
-🛠 Tools & Technologies Used
-▫️Power BI Desktop
-▫️DAX (Data Analysis Expressions)
-▫️Microsoft Excel / CSV (for data source)
-▫️Data Cleaning & Modeling
+❗ Business Problem
+E-commerce businesses generate large volumes of data, but without proper analysis, it becomes difficult to:
+▫️Track revenue and growth
+▫️Identify top-performing products
+▫️Understand customer behavior
+▫️Optimize inventory and marketing strategies
+This project solves this problem by providing a centralized, interactive analytics dashboard.
 
-📈 Key Features
-▫️Interactive slicers for filtering data
-▫️KPI cards for quick insights
-▫️Trend analysis using line and bar charts
-▫️Category-wise and product-wise comparison
-▫️Professional dark theme dashboard design
+🎯 Project Objective
+The main objective of this project is to:
+✔ Analyze sales performance (YTD & QTD)
+✔ Track monthly and weekly trends
+✔ Compare product categories
+✔ Identify top-selling and most-reviewed products
+✔ Enable faster business decisions
 
-📂 Files Included
-▫️.pbix file (Power BI dashboard)
-▫️Dataset (if applicable)
-▫️Project documentation
+📈 Dashboard Features
+▫️KPI Cards: YTD Sales, QTD Sales, Units Sold, Reviews
+▫️Time Analysis: Monthly & Weekly Sales Trends
+▫️Category Performance: Revenue by Product Category
+▫️Top Products: Top 5 by Sales & Reviews
+▫️Interactive Filters: Category & Quarter-wise filtering
 
-🎯 Learning Outcome
-▫️Through this project, I learned:
-▫️Data cleaning and transformation
-▫️Creating relationships between tables
-▫️Writing DAX measures
-▫️Designing interactive dashboards
-▫️Business-oriented data analysis
+💡 Key Insights
+▫️Strong sales growth observed in Q4 (Sep–Dec)
+▫️Men Shoes and Camera categories generate highest revenue
+▫️Products with higher reviews tend to perform better
+▫️Weekly trends help in demand forecasting
+▫️Growth opportunities exist in low-performing categories
 
-🚀 Future Improvements
-▫️Add forecasting models
-▫️Include real-time data integration
-▫️Improve performance optimization
-▫️Deploy dashboard to Power BI Service
+💼 Business Impact
+This dashboard helps businesses to:
+✔ Improve inventory planning
+✔ Optimize marketing campaigns
+✔ Enhance customer satisfaction
+✔ Reduce operational risks
+✔ Increase profitability
 
+🛠 Tools & Technologies
+▫️Power BI
+▫️DAX
+▫️Microsoft Excel
+▫️Data Cleaning & Transformation
+
+Data Modeling
 👤 Created By
 Komal Patil
 Aspiring Data Analyst | Power BI | SQL | Python
